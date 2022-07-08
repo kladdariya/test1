@@ -1,0 +1,15 @@
+C:\GeekBrains\Examples\test1\example003_sum\bin\Debug\net6.0\example003_sum.exe
+C:\GeekBrains\Examples\test1\example003_sum\bin\Debug\net6.0\example003_sum.deps.json
+C:\GeekBrains\Examples\test1\example003_sum\bin\Debug\net6.0\example003_sum.runtimeconfig.json
+C:\GeekBrains\Examples\test1\example003_sum\bin\Debug\net6.0\example003_sum.dll
+C:\GeekBrains\Examples\test1\example003_sum\bin\Debug\net6.0\example003_sum.pdb
+C:\GeekBrains\Examples\test1\example003_sum\obj\Debug\net6.0\example003_sum.csproj.AssemblyReference.cache
+C:\GeekBrains\Examples\test1\example003_sum\obj\Debug\net6.0\example003_sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\Examples\test1\example003_sum\obj\Debug\net6.0\example003_sum.AssemblyInfoInputs.cache
+C:\GeekBrains\Examples\test1\example003_sum\obj\Debug\net6.0\example003_sum.AssemblyInfo.cs
+C:\GeekBrains\Examples\test1\example003_sum\obj\Debug\net6.0\example003_sum.csproj.CoreCompileInputs.cache
+C:\GeekBrains\Examples\test1\example003_sum\obj\Debug\net6.0\example003_sum.dll
+C:\GeekBrains\Examples\test1\example003_sum\obj\Debug\net6.0\refint\example003_sum.dll
+C:\GeekBrains\Examples\test1\example003_sum\obj\Debug\net6.0\example003_sum.pdb
+C:\GeekBrains\Examples\test1\example003_sum\obj\Debug\net6.0\example003_sum.genruntimeconfig.cache
+C:\GeekBrains\Examples\test1\example003_sum\obj\Debug\net6.0\ref\example003_sum.dll
