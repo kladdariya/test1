@@ -1,0 +1,15 @@
+C:\GeekBrains\Examples\test1\example005_Condish\obj\Debug\net6.0\example005_Condish.csproj.AssemblyReference.cache
+C:\GeekBrains\Examples\test1\example005_Condish\obj\Debug\net6.0\example005_Condish.GeneratedMSBuildEditorConfig.editorconfig
+C:\GeekBrains\Examples\test1\example005_Condish\obj\Debug\net6.0\example005_Condish.AssemblyInfoInputs.cache
+C:\GeekBrains\Examples\test1\example005_Condish\obj\Debug\net6.0\example005_Condish.AssemblyInfo.cs
+C:\GeekBrains\Examples\test1\example005_Condish\obj\Debug\net6.0\example005_Condish.csproj.CoreCompileInputs.cache
+C:\GeekBrains\Examples\test1\example005_Condish\bin\Debug\net6.0\example005_Condish.exe
+C:\GeekBrains\Examples\test1\example005_Condish\bin\Debug\net6.0\example005_Condish.deps.json
+C:\GeekBrains\Examples\test1\example005_Condish\bin\Debug\net6.0\example005_Condish.runtimeconfig.json
+C:\GeekBrains\Examples\test1\example005_Condish\bin\Debug\net6.0\example005_Condish.dll
+C:\GeekBrains\Examples\test1\example005_Condish\bin\Debug\net6.0\example005_Condish.pdb
+C:\GeekBrains\Examples\test1\example005_Condish\obj\Debug\net6.0\example005_Condish.dll
+C:\GeekBrains\Examples\test1\example005_Condish\obj\Debug\net6.0\refint\example005_Condish.dll
+C:\GeekBrains\Examples\test1\example005_Condish\obj\Debug\net6.0\example005_Condish.pdb
+C:\GeekBrains\Examples\test1\example005_Condish\obj\Debug\net6.0\example005_Condish.genruntimeconfig.cache
+C:\GeekBrains\Examples\test1\example005_Condish\obj\Debug\net6.0\ref\example005_Condish.dll
